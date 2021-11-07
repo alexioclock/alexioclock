@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @alexioclock
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in React Redux projects
+- 📫 How to reach me : https://www.linkedin.com/feed/
 
 <!---
 alexioclock/alexioclock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
