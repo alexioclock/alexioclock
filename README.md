@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexioclock
-- 👀 I’m interested in React Redux projects
+- 👀 I’m interested in React projects
 - 📫 How to reach me : https://www.linkedin.com/feed/
 
 <!---
